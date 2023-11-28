@@ -307,5 +307,3 @@ app.run_server(mode='inline')
 # // Add similar code for Line Chart and Pie Chart
 # 
 
-# Conclusion:
-# Research on how scoring threshold is calculated based on newer, more relevant population sample to generate a more accurate threshold
